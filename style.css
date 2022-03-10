@@ -53,12 +53,12 @@ main {
     color: var(--Verydarkdesaturatedblue)
 }
 .place{
-    margin-top: 5px;
+    margin-top: 8px;
     color: var(--Darkgray);
     font-size: 15px;
 }
 hr{
-    margin:20px 0 10px 0;
+    margin:23px 0 10px 0;
     border-color: var(--Darkgray);
     border-style: solid;
     opacity: .2;
@@ -77,6 +77,12 @@ hr{
 }
 .details>div>span:nth-of-type(1){
     font-weight: 700;
+}
+.details>div>span:nth-of-type(2){
+  margin-top:5px;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    color: var(--Darkgray);
 }
 .upper-bg{
     width: 100vw;
