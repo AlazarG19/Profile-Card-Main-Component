@@ -11,7 +11,7 @@ adjusting the background images
 ![ScreenShot](ProfileCard.png)
 ##Live Site URL 
 
-Website  https://alazarg19.github.io/nft-preveiw-card-component/ 
+Website  https://alazarg19.github.io/Profile-Card-Main-Component/
 
  
 
@@ -41,16 +41,13 @@ i would like to be able to adapt to positioning much better
 
 ## Author 
 
- Website  https://alazarg19.github.io/nft-preveiw-card-component/ 
+ Website  https://alazarg19.github.io/Profile-Card-Main-Component/ 
 
 Frontend Mentor @AlazarG19 
 
 ## Acknowledgments 
 
-had more help from a person that did this challenge earlier and found the box shadow  
-
-property there 
-
+had more help from a person that did this challenge earlier and found out how to adjust the top background
  
 
  
